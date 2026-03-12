@@ -1,21 +1,60 @@
-# ðŸ’« About Me:
-### ðŸš€ 999999+ Aura Developer | CEO at NovaApps<br><br>- ðŸ”­ Iâ€™m currently working on **WebCode Studio, NovaApps & custom AI Security Engines.**<br>- ðŸŒ± Iâ€™m currently learning **Advanced Firebase Architectures & Custom OS Development.**<br>- ðŸ‘¯ Iâ€™m looking to collaborate on **Google Cloud Projects & Open Source API Hubs.**<br>- ðŸ¤” Iâ€™m looking for help with **Scaling Link-in-Bio CMS and Ad Networks (TonSecAds).**<br>- ðŸ’¬ Ask me about **Firebase Rules, HTML/CSS/JS Logic, and AI Prompt Engineering.**<br>- âš¡ Fun fact **I built a custom Link-in-Bio CMS in 22 minutes using 1% Human + 99% AI Logic!**<br><br>---<br>
+# 🚀 Rudra | Founder & Lead Architect at NovaApps
 
-
-## ðŸŒ Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Rudra_Aura__17) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RUDRA_CEO_13) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Rudragamer13 ) 
-
-# ðŸ’» Tech Stack:
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# ðŸ“Š GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RudraCEO13 &theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RudraCEO13 &theme=aura_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RudraCEO13 &theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## ðŸ† GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RudraCEO13 &theme=aura_dark&no-frame=false&no-bg=true&margin-w=4)
+**Full-Stack Developer | AI Strategist | OS Enthusiast** Building the future of web ecosystems, one line of code at a time. High-performance logic meets scalable architecture.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RudraCEO13 &icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ Professional Overview
+Professional developer specializing in **Firebase Ecosystems** and **Custom Web Frameworks**. Currently scaling **NovaApps**, a next-gen application distribution platform, and pioneering **WebCode Studio**, an integrated cloud-based coding environment.
+
+* **Current Focus:** Architecting AI-driven security engines and optimizing real-time data sync.
+* **Mission:** Bridging the gap between 99% AI efficiency and 1% human-centric creative logic.
+* **Goal:** Establishing a global footprint in the Open Source API Hub space and Ad-Tech via **TonSecAds**.
+
+---
+
+### 💻 Technical Arsenal
+| Category | Stack |
+| :--- | :--- |
+| **Frontend** | HTML5, CSS3, JavaScript (ES6+), Responsive UI Design |
+| **Backend/Cloud** | Firebase (Firestore, Auth, Hosting), Google Cloud Platform (GCP) |
+| **Specialized** | Custom OS Development, API Architecture, AI Prompt Engineering |
+| **Tools** | GitHub, WebCode Studio, Advanced Debugging |
+
+---
+
+### 📁 Key Ventures & Projects
+* **NovaApps:** A centralized hub for modern web applications.
+* **WebCode Studio:** A powerful playground for developers to test and deploy logic in real-time.
+* **TonSecAds:** A specialized 10-second video advertisement network.
+* **Rudra OS:** An ambitious project focused on custom operating system kernels and UI.
+
+---
+
+### 📈 GitHub Ecosystem
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RudraCEO13&theme=aura_dark&show_icons=true&hide_border=false" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=RudraCEO13&theme=aura_dark&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudraCEO13&theme=aura_dark&layout=compact" />
+</p>
+
+---
+
+### 🤝 Collaboration & Networking
+I am always open to discussing **Advanced Firebase Architectures**, **Open Source API Hubs**, and **Cloud Scalability**. 
+
+* **Seeking:** Collaborators for high-level Google Cloud projects.
+* **Consulting:** Ask me about Firebase Rules, Logic Optimization, and AI integration.
+
+**Connect with me:**
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/Rudra_Aura__17) 
+[![X](https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/RUDRA_CEO_13) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@Rudragamer13)
+[![Developer Profile](https://img.shields.io/badge/Google_Dev-Profile-4285F4?style=flat-square&logo=google)](https://g.dev/RudraCEO)
+
+---
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=RudraCEO13&icon=0&color=0" />
+</p>
